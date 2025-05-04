@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-➡️ [Live on Netlify](https://credi-khaata-app.netlify.app)
+➡️ [Live on Vercel(https://net-worth-tracker-six.vercel.app/login)
 
 ---
 
@@ -61,7 +61,7 @@ src/
 
 ```bash
 # Step 1: Clone the repo
-git clone https://github.com/Prasanth1467/credi-khaata.git
+git clone https://github.com/GopalChinta/NetWorthTracker.git
 cd credi-khaata
 
 # Step 2: Install dependencies
@@ -108,8 +108,7 @@ To deploy your app:
    * **Publish Directory**: `build`
 3. Trigger deploy – site will be live
 
-Live Site: [https://credi-khaata-app.netlify.app](https://credi-khaata-app.netlify.app)
-
+Live Site: https://net-worth-tracker-six.vercel.app/login
 ---
 
 ## 🧠 Design Philosophy
@@ -145,8 +144,8 @@ Live Site: [https://credi-khaata-app.netlify.app](https://credi-khaata-app.netli
 
 ## 👨‍💻 Author
 
-Created by **Prasanth**
-🌐 GitHub: [@Prasanth1467](https://github.com/Prasanth1467)
+Created by **Chintha Venu Gopal**
+🌐 GitHub: [@GopalChinta](https://github.com/GopalChinta)
 
 ## 📄 License
 
